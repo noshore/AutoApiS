@@ -1,6 +1,7 @@
 #AutoApiS 多功能版
 name: Auto Api Super
 
+
 on: 
   release:
     types: [published]
